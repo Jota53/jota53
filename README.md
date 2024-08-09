@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 🕶️
 
 Meu nome é Joao Vinicius
 
@@ -6,11 +6,10 @@ Meu nome é Joao Vinicius
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
-paludettomarcelo@gmail.com
+@viniciusRochaChaves091@gmail.com
 
-@Joaovinicius.com
+jota53
 
-!]
-https://media1.tenor.com/m/z_KoI0-y7rEAAAAC/chaos.gif
+![](https://media1.tenor.com/m/z_KoI0-y7rEAAAAC/chaos.gif)
